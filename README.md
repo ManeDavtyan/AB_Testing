@@ -9,7 +9,7 @@ Multi-armed bandit algorithms are commonly used in scenarios where we need to ma
 
 ### Epsilon-Greedy: Epsilon-Greedy is a simple yet effective algorithm that explores with a certain probability (ε) and exploits with the complementary probability (1-ε).
 
-##Key Features
+## Key Features
 Configurable: Easily customize the number of bandit arms, bandit probabilities, and hyperparameters for each algorithm.
 
 Automated Parameter Tuning: Experiment with different hyperparameters using automated tuning to optimize performance.
